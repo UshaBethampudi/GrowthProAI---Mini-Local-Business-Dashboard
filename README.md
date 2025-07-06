@@ -29,13 +29,13 @@ To create a clean, responsive dashboard for local businesses using:
 ## 🧪 Example
 
 > **Input:**  
-> Business Name: `StayFree`  
-> Location: `Vijayawada`
+> Business Name: `Chocos`  
+> Location: `Hyederabad`
 
 > **Output:**  
 > ⭐ Rating: `4.5`  
 > 💬 Reviews: `112`  
-> ✨ Headline: *“Top Reasons to Visit StayFree in Vijayawada Today!”*
+> ✨ Headline: *“Top Reasons to Visit Chocos in Vijayawada Today!”*
 
 ---
 
@@ -65,18 +65,12 @@ growthpro-dashboard/
 └── README.md
 
 🔹 Start the Backend
-bash
-Copy
-Edit
 cd backend
 npm install
 npm start
 Backend runs on: http://localhost:4000
 
 🔹 Start the Frontend
-bash
-Copy
-Edit
 cd frontend
 npm install
 npm start
