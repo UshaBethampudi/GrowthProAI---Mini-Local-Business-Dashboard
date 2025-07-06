@@ -108,5 +108,5 @@ Quickly generate marketing content
 Usha Sravanthi Bethampudi
 📍 Vijayawada, Andhra Pradesh
 📧 ushasravanthi8@gmail.com
-🔗 LinkedIn
+🔗 LinkedIn https://www.linkedin.com/posts/ushaprofile_opentowork-fresherjobs-fullstackdeveloper-activity-7347672824364339200-mpsG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD6DVrkBXQwxAey2T3zqTgD__OHQz_JHy_w
 
